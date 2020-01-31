@@ -8,7 +8,7 @@ module.exports = {
     
         https.get('https://arminimamovic.com/', (res) => {
             //console.log(res);
-            mailer.notify();
+            //mailer.notify();
         }).on('error', (e) => {
             //console.log(e);
             mailer.notify();
