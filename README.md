@@ -9,5 +9,5 @@ Usage:
 1. Clone project <br/>
 2. Add your server configuration in server.js <br/>
 3. Add your website URL in monitor.js <br/>
-4. Configure your E-Mail (account, content of the message etc.) <br/>
+4. Configure your E-Mail (account, content of the message etc.) in mailer.js <br/>
 5. Run with 'node run server.js'
